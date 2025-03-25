@@ -22,13 +22,13 @@ p1 = 4/36
 
 # Wurf 3 ---------------------------------------------------------------------
 # p21: ---------------------------------------------------------
-    # 2 liegt aus Wurf 2 in 7 (=11-4)von 36 Fällen,
+    # 2 liegt aus Wurf 2 in 7 (=11-4) von 36 Fällen,
     # 12 (Kombinationen mit 2) - 1 (2er pasch) - 4 (aus Wurf 2) = 7
     # 1 Würfel
     # 1 oder 6 gewinnt in 2 von 6 Fällen
 p21 = 7/36 * 2/6
 # p22: ---------------------------------------------------------------------
-    # 1 oder 6 liegt aus Wurf 2 in 16 (=20-4) von 36 Fällen
+    # 1 oder 6 liegt aus Wurf 2 in 16 (=24-4-4) von 36 Fällen
     # 1 Würfel
     # 2 gewinnt
 p22 = 16/36 * 1/6 
