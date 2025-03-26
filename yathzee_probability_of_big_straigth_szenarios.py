@@ -10,7 +10,7 @@ Created on Tue Mar 26 21:19:24 2025
 
 #Strategie A große Straße 6 behalten: --------------------------------
     # 2 Versuche die 2 zu würfeln zu 1 / 6 je Versuch 
-P_A = 1/6 + 5/6*1/6 # = 1/3 = 3 / 9
+P_A = 1/6 + 5/6*1/6 # 
 
 # Strategie B große Straße 6 zurücklegen: -----------------------------
 # Wurf 2 ---------------------------------------------------------------------
