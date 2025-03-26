@@ -64,7 +64,7 @@ print(' die Wahrscheinlichkeit für die "Große Strasse" mit der Strategie B ' +
 
 print(' die Wahrscheinlichkeit für die "Große Strasse" mit der Strategie C ' +
       ' Strarrer Sturrkopf nach dem ersten Wurf und nach dem 2. Wurf' +
-      ' (wenn erneut gewürfelt) die 6 (oder 1) zurücklegen ist \n P_B = \t '+
+      ' (wenn erneut gewürfelt) die 6 (oder 1) zurücklegen ist \n P_C = \t '+
       str(round(P_C,3)) + '\n' )
 
 print('Überprüfung der Wahrscheinlichkeit von Strategie B: \n')
